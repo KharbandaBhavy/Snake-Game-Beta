@@ -8,5 +8,7 @@
 * w -> up moment
 * s -> down moment
 * x -> for Exit
+
 Just simply run the code in Codeblocks of Microsoft Visual studio in a console app and enjoy the game.
+
 Happy coding..........
