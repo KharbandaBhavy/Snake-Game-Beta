@@ -57,7 +57,7 @@ void Design()
             }
             if (i == y && j == x)
             {
-                cout << "O";
+                cout << "Q";
             }
             else if (i == fy && j == fx)
             {
